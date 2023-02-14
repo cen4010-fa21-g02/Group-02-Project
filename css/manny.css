@@ -1,0 +1,208 @@
+h1 {
+    font-size: 5rem;
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1.hero {
+    font-size: 8.5rem;
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-weight: bold;
+}
+
+h1.hero1 {
+    font-size: 5rem;
+    font-family: 'Pacifico', cursive;
+    color: #bdc3c7;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: #3c6382;
+    font-family: 'Lobster', cursive;
+}
+
+h2.pad {
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    color: #0a3d62;
+}
+
+h4 {
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+p.foot {
+    font-size: 1rem;
+
+}
+
+p.sum {
+    font-size: 1rem;
+    color: #636e72;
+}
+
+table {
+    letter-spacing: 1px;
+    height: 350px;
+    text-align: center;
+}
+
+th {
+    font-size: 1.8rem;
+    font-family: 'Pacifico', cursive;
+    color: #0a3d62;
+}
+
+td {
+    font-size: 1.1rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+
+
+div.Education {
+    text-align: center;
+
+}
+
+ul.info {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+div.Work2 {
+    text-align: center;
+}
+
+ul.Exp2 {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+.container {
+    margin: auto auto;
+    max-width: 980px;
+    padding: 30px;
+
+}
+
+.pad {
+    padding-top: 50px;
+}
+
+p {
+    line-height: 160%;
+    font-size: 1.5rem;
+}
+
+
+h1.name {
+    margin-left: 30px;
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+nav {
+    text-align: right;
+    padding: 30px;
+}
+
+nav a {
+    margin-right: 30px;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Kanit',
+        sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+
+nav a:last-child {
+    margin-right: 0;
+}
+
+nav a:last-child:hover {
+    text-decoration: underline;
+    text-decoration-color: #3c6382;
+}
+
+nav a:hover {
+    color: #0a3d62;
+}
+
+a.edu {
+    color: #3c6382;
+    text-decoration: none;
+}
+
+a.edu:hover {
+    color: #0a3d62;
+    text-decoration: underline;
+    text-decoration-color: #60a3bc;
+}
+
+a.index {
+    color: #3c6382;
+    text-decoration: none;
+}
+
+a.index:hover {
+    color: #0a3d62;
+    text-decoration: underline;
+    text-decoration-color: #60a3bc;
+}
+
+a.index {
+    padding-bottom: 30px;
+}
+
+#hero {
+    background: radial-gradient(#0a3d62, #3c6382, #60a3bc, #82ccdd);
+    min-height: 100vh;
+}
+
+.hero-picture {
+    max-height: 250px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: block;
+    padding-right: 60px;
+    padding-bottom: 60px;
+}
+
+.hero-picture2 {
+    max-height: 115px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    display: block;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+
+section {
+    position: relative;
+}
+
+footer {
+    text-align: center;
+}
